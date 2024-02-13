@@ -44,7 +44,7 @@
 
 
 #define VTX_TABLE_MIN_USER_FREQ         5000
-#define VTX_TABLE_MAX_USER_FREQ         5999
+#define VTX_TABLE_MAX_USER_FREQ         6200
 #define VTX_TABLE_DEFAULT_BAND          4
 #define VTX_TABLE_DEFAULT_CHANNEL       1
 #define VTX_TABLE_DEFAULT_FREQ          5740
